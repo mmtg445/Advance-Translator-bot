@@ -1,4 +1,3 @@
-markdown
 # Translator Bot
 
 A fully functional Telegram Translator Bot with features like MongoDB integration, API key system, and enhanced user interaction. This bot is designed to provide seamless translation services in group and private chats.
