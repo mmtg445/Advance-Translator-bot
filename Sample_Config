@@ -1,0 +1,9 @@
+#First Add .env In File Name
+
+BOT_TOKEN=your_bot_token
+MONGO_URI=your_mongo_uri
+API_KEY=your_api_key
+CHANNELS=@channel1,@channel2
+
+#All Creadit By Rahat
+#Powered By RM Movie Flix
