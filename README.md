@@ -1,6 +1,4 @@
-Here's a sample `README.md` file for your Translator Bot project that includes all the necessary information for users to understand how to deploy and use the bot:
-
-```markdown
+markdown
 # Translator Bot
 
 A fully functional Telegram Translator Bot with features like MongoDB integration, API key system, and enhanced user interaction. This bot is designed to provide seamless translation services in group and private chats.
@@ -33,7 +31,6 @@ A fully functional Telegram Translator Bot with features like MongoDB integratio
 
 ## Directory Structure
 
-```
 translator_bot/
 ├── app.py
 ├── requirements.txt
@@ -108,6 +105,5 @@ This project is licensed under the MIT License.
 
 👨‍💻 Created by [Rahat](https://t.me/RahatMx)  
 🎬 Powered By [RM Movie Flix](https://t.me/RM_Movie_Flix)
-```
 
 Feel free to customize any sections according to your needs!
